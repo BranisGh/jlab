@@ -1,0 +1,4 @@
+[core]
+    remote = jlab-raw-data
+['remote "jlab-raw-data"']
+    url = s3://jlab-raw-data
